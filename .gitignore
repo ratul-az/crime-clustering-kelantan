@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset (not bundled; verify redistribution rights before adding)
+Kelantan_Crime_Statistic.csv
+
+# Generated outputs
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.pkl
+*.pickle
+*.joblib
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
